@@ -1,0 +1,4 @@
+= asciidoctor-liquibase-extension-example
+
+This repository show the usage of the https://github.com/uniqueck/asciidoctorj-liquibase-extension[asciidoctorj-liquibase-extension]
+

@@ -1,4 +1,7 @@
 = asciidoctor-liquibase-extension-example
 
+image:https://img.shields.io/badge/License-MIT-yellow.svg["MIT License", link="https://opensource.org/licenses/MIT"]
+
+
 This repository show the usage of the https://github.com/uniqueck/asciidoctorj-liquibase-extension[asciidoctorj-liquibase-extension]
 
